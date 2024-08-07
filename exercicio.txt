@@ -1,0 +1,13 @@
+Criando o algoritmo
+
+Crie um algoritmo que calcule a média de um aluno que estuda semestralmente e exiba a média. 
+
+Resposta
+
+algoritmo CalculoMedia
+VAR nota1, nota2, media: real
+inicio
+leia nota1, nota2
+media = (nota1 + nota2)/2
+exiba ("A média do aluno é", media)
+fim
